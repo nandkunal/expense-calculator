@@ -1,0 +1,79 @@
+************** Report **********************
+
+Total Cash in  14246.0
+Total Cash out  11099.0
+Balance  3147.0
+
+Total Share for each member 1849.83333333
+
+**************Amount Paid till Now **********************
+Jitin 973.5
+Harsha 3578.5
+Kunal 3856.5
+Chetan 3172.5
+Anuj 965.0
+Gaurav 1700.0
+**************Final Hisab**********************
+Jitin 876.333333333 Due
+Harsha 1728.66666667 Extra Amount
+Kunal 2006.66666667 Extra Amount
+Chetan 1322.66666667 Extra Amount
+Anuj 884.833333333 Due
+Gaurav 149.833333333 Due
+**************Category Wise Expenditure **********************
+Grocery 6975.0
+Electricity 494.0
+News Paper 140.0
+Vegetables 803.0
+Water 400.0
+Maintenance 1000.0
+Internet 1197.0
+Milk 90.0
+**********************************
+******************Cash In Report************************
+Jitin
+__________
+67.5---Carried forward from August
+800.0---Cash Payment
+56.0---Maida+Milk
+50.0---Curd  and Milk
+Harsha
+__________
+758.5---Carried forward from August
+2000.0---Cash Payment
+466.0---Grocery
+148.0---Pickle
+15.0---Ginger
+191.0---Grocery
+Kunal
+__________
+1053.5---Carry forward from August
+350.0---Aata
+140.0---Newspaper
+100.0---Macroni+Peanuts+Rice Flour
+1197.0---Internet
+437.0---Grocery and Vegetables
+494.0---Electricity Bill
+15.0---Lemon
+50.0---Chicken
+20.0---Milk
+Chetan
+__________
+372.5---Carried forward from August
+1800.0---Cash Payment
+365.0---Vegetables
+500.0---Sunday Dinner
+135.0---Vegetables
+Anuj
+__________
+551.0---Cash Payment
+241.0---Grocery
+50.0---Vegetables
+20.0---Milk
+73.0---Onion
+30.0---Curd
+Gaurav
+__________
+1700.0---Cash Payment
+
+
